@@ -6,3 +6,9 @@ THESE MODS WILL OVERRIDE DEFAULT WORLD GENERATION (It is a little jank) but if y
 There is no interface at all but since you are bringing it from McRegion to Anvil, that's probably for the best. Remember to back up your world(s) before converting to Anvil with these mods incase you use the wrong version or you experience some sort of world corruption that I am not aware of. No ModLoader is required, just add to minecraft.jar into something like MultiMC or PrismLauncher under a r1.3.2 client (or you can manually inject the mod the classic way of adding mods but I don't know if I'd recommend doing permanent changes to your minecraft.jar just saying)
 
 I made these 2 mods since at the time, there were literally no other mods that can recreate the biome maps for these versions as people would rather b1.7.3 and older world generators in general.
+
+![2022-11-24_12](https://github.com/ShadowMorde/Minecraft-LateBetaToAnvilConverter/assets/123754902/0b2b48aa-a38e-4a49-a4a9-cdba5cb20c36)
+Beta 1.8 World converted to Release 1.3.2.
+
+![2022-11-24_12-1](https://github.com/ShadowMorde/Minecraft-LateBetaToAnvilConverter/assets/123754902/b3e38fb3-fbff-4af7-8c98-e07ebb01b48d)
+Release 1.0 World converted to Release 1.3.2.
